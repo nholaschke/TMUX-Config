@@ -1,0 +1,50 @@
+Ctrl + b then d
+Disconnect from current session
+
+Ctrl + b then %
+Splits session/pane horizontaly, new pane
+
+Ctrl + b then "
+Slits session/pane vertically, new pane
+
+Ctrl + b then directional keys
+Move between panes
+
+Ctrl + b then q
+Shows the panes indexes
+
+Ctrl + b then q <numbers>
+jumps to the panes with index number
+
+Ctrl + b then hold Ctrl + directional arrows
+resizes the pane
+
+Ctrl + b then c
+New window
+
+Ctrl + b then n
+Move to the window to the left
+
+Ctrl + b then ,
+Rename the current window
+
+Ctrl + b then w
+Shows overview of all, you can jump to a specific one
+
+Ctrl + b then w
+Then Ctrl + b then x
+Asks you whether you want to kill this
+
+Ctrl + b then x
+Asks you whether you want to kill the current pane
+
+Ctrl + b then &
+Kill the whole window
+
+Ctrl + b then [
+Enters the copy mode
+Hit space key, then copy
+Then hit enter, its in the copy buffer
+
+Ctrl + b then ]
+paste
