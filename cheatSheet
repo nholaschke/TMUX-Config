@@ -48,3 +48,6 @@ Then hit enter, its in the copy buffer
 
 Ctrl + b then ]
 paste
+
+Ctrl + b then 'Space'
+rearranges panes position
